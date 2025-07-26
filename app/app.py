@@ -65,8 +65,11 @@ class Chain:
 
             ### INSTRUCTION:
             You are {user_name}. {user_about}
-            Your job is to write a cold email to the client regarding the job mentioned above, describing how you can contribute to fulfilling their needs.
-            Also, add the most relevant ones from the following links to showcase portfolio: {link_list}
+            Over our experience, we have empowered numerous enterprises with tailored solutions, fostering scalability, 
+            process optimization, cost reduction, and heightened overall efficiency. 
+            Your job is to write a cold email to the client regarding the job mentioned above describing the capability of AtliQ 
+            in fulfilling their needs.
+            Also add the most relevant ones from the following links to showcase Atliq's portfolio: {link_list}
             Do not provide a preamble.
             ### EMAIL (NO PREAMBLE):
 
